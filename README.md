@@ -13,3 +13,5 @@ Cute Capture is the free photo editing and photo collage maker application. Down
 **Best Frame for Photos** 
 **Edit Photo with Caption Text**
 **Draw Anything you want with a Drawing Tool**
+
+https://play.google.com/store/apps/details?id=com.gexton.cutecapture
